@@ -1,11 +1,11 @@
 # transition
 
-`transition` transparent mixin.
+`transition` transparent mixin
 
-## Installation
+## Usage
 
-```sh
-$ npm install git://github.com/shoelace-ui/transition.git
+```stylus
+@require 'shoelace-ui-transition'
 ```
 
 ## License
